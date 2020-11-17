@@ -8,7 +8,7 @@ India Kato
 
 ## Person B:
 
-Person B should modify content here.
+Here is some text
 
 ## Person C:
 
