@@ -12,7 +12,7 @@ Person B should modify content here.
 
 ## Person C:
 
-Person C should modify content here.
+Theo is cute!!!!!! I love puppies so much that I wanna cr qy!!!!!!!!
 
 ## Person D:
 
